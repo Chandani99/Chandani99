@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chandani Chandra</h1>
 <h3 align="center">I am an aspiring and diligent Java Developer. Dependable team player, enthusiastic to work on projects at company. Bringing forth a motivated attitude and a variety of powerful skills. Capable of writing production ready code.</h3>
+
+#
+
 <img align="right" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="250"/>
 
 - 🌱 I’m currently learning **Java backend developer at Masai School**
