@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandani Chandra</h1>
-<h3 align="center">I am an aspiring and diligent Java Developer. Dependable team player, enthusiastic to work on projects at company. Bringing forth a motivated attitude and a variety of powerful skills. Capable of writing production ready code.</h3>
+<h3 align="center">I am a skilled and versatile software developer with expertise in both Java and PHP, committed to delivering high-quality and efficient solutions. My passion for coding and problem-solving, combined with years of experience, enables me to create robust and scalable applications tailored to meet diverse client needs. Seeking opportunities to contribute my expertise in PHP & Java development and passion for innovation to a dynamic team. </h3>
 
 #
 
