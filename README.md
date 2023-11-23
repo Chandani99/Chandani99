@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chandani Chandra</h1>
-<h3 align="center">I am a skilled and versatile software developer with expertise in both Java and PHP, committed to delivering high-quality and efficient solutions. Experienced Software Engineer with over a year of expertise in PHP and Java development, specialized in game development at GSN Games. Seeking opportunities to contribute my expertise in PHP & Java development and passion for innovation to a dynamic team. </h3>
+<h3 align="center"> Skilled and versatile software developer with expertise in both Java and PHP, committed to delivering high-quality and efficient solutions. Experienced Software Engineer with over a year of expertise in PHP and Java development, specialized in game development at GSN Games. Seeking opportunities to contribute my expertise in PHP & Java development and passion for innovation to a dynamic team. </h3>
 
 #
 
