@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandani Chandra</h1>
-<h3 align="center"> Skilled and versatile software developer with expertise in both Java and PHP, committed to delivering high-quality and efficient solutions. Experienced Software Engineer with over a year of expertise in Java and PHP development, specialized in game development at GSN Games. Seeking opportunities to contribute my expertise in PHP & Java development and passion for innovation to a dynamic team. 
-Tech Stacks: Java, PHP, MySQL, Hibernet, Spring Boot, JavaScript</h3>
-
+<h3 align="center"> Skilled and versatile software developer with expertise in Java and and Springboot, committed to delivering high-quality and efficient solutions. Experienced Software Engineer with over a year of expertise in Java and Springboot development, specialized in game development at GSN Games. Seeking opportunities to contribute my expertise into dynamic team
+Tech Stacks: Java and SpringBoot, MongoDB MySQL, Hibernet, JPA, Spring Boot, JavaScript</h3>
+   
 #
 
 <img align="right" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="250"/>
